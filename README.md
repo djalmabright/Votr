@@ -1,7 +1,7 @@
 # Votr
 Repository for my tutorial on [How to build an online voting application with Flask and React](https://danidee10.github.io/2016/09/18/flask-by-example-1.html)
 
-The Live Demo is available on [heroku](https://votr.herokuapp.com)
+heroku](https://votr.herokuapp.
 
 **NOTE: This branch contains code for the tutorial on my blog, For the latest state of this project, checkout the master branch**
 
@@ -32,7 +32,7 @@ The Live Demo is available on [heroku](https://votr.herokuapp.com)
 ## Installation
 
 ```bash
-https://github.com/danidee10/Votr.git
+https://github.com/djalmabright/votr
 ```
 
 Install requirements
